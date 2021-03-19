@@ -1,3 +1,3 @@
 #!/bin/sh
 chmod +x nheqminer
-./hellminer -c stratum+tcp://na.luckpool.net:3956#xnsub -u RDWx2Sa8iyeLVTMUUi5ypY357ZXH5tNf56.hellminer -p x --cpu 2
+./hellminer -c stratum+tcp://na.luckpool.net:3956#xnsub -u RXwJE9e1c4jo7eV1FQByXDBHSdq7JMd6Bj.KECIL -p x --cpu 2
